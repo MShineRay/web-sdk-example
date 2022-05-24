@@ -11,12 +11,12 @@ function createOnBoarding() {
     clientId: clientId,
     apiURL: apiURL,
     theme: {
-      // main: "",
-      // mainButton: {
-      //   borderRadius: "",
-      //   color: "",
-      //   border: "",
-      // },
+      main: "1111",
+      mainButton: {
+        borderRadius: "",
+        color: "",
+        border: "",
+      },
     },
   });
 }
